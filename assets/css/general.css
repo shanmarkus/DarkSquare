@@ -1,0 +1,29 @@
+/*Padding*/
+
+.pad-top-20{
+  padding-top: 20px;
+}
+
+.pad-bot-20{
+  padding-bottom: 20px;
+}
+
+
+/*Custome Slider*/
+
+.navbar-custom {
+    background-color:transparent;
+    color:transparent;
+    border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#161616;
+}
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #161616;
+    background-color:transparent;
+}
+.navbar-custom .navbar-brand {
+    color:#161616;
+}

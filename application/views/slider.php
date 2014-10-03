@@ -20,7 +20,6 @@
         Masukan Judul disini
       </div>
     </div>
-    ...
   </div>
 
   <!-- Controls -->

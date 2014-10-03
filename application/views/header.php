@@ -9,9 +9,12 @@
   <link rel="stylesheet" href="<?php echo BOOTSRAP_URL?>css/bootstrap.min.css">
   <link rel="stylesheet" href="<?php echo BOOTSRAP_URL?>css/bootstrap-theme.min.css">
   <link rel="stylesheet" href="<?php echo ASSETS_URL?>css/style.css">
+  <link rel="stylesheet" href="<?php echo CSS_URL?>general.css">
+  <link rel="stylesheet" href="<?php echo CSS_URL?>sticky_footer.css">
 
   <script src="<?php echo ASSETS_URL?>js/jquery-1.11.1.min.js"></script>
   <script src="<?php echo BOOTSRAP_URL?>js/bootstrap.min.js"></script>
 </head>
 <body>
-  <div class="container ">
+  <div class="wrap">
+  <div class="container">
