@@ -1,0 +1,16 @@
+/*header name*/
+
+.header-name{
+  padding-left: 10px;
+  color: rgb(142,185,89);
+}
+
+.contact_detail{
+  background-color: rgb(230,222,220);
+  padding: 10px;
+}
+
+.contact_summary{
+  margin-top: 10px;
+  font-size: 12px;
+}
