@@ -12,10 +12,13 @@
 
 /*MAIN CONTENT STYLE*/
 .content-main {
-  margin-left: 20px;
-  margin-right: 20px;
+  padding: 5px;
   background-color: rgb(174,144,73);
   color: rgb(248,248,255);
+}
+
+.content-text{
+  font-size: 16px;
 }
 
 .content-image {
@@ -24,4 +27,6 @@
 
 .sub-content-main{
   background-color: rgb(230,222,220);
+  padding:10px;
 }
+

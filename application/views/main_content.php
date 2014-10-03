@@ -46,46 +46,54 @@
  </div>
 </div> 
 
-
-
 </div><!-- END OF BLOG CONTENT -->
 
 <!-- MAIN CONTENT -->
 <div class="col-md-6">
 
   <!-- Main Content -->
-  <div class="row content-main">
-    <div class="col-md-12">
-      <img src="<?php echo IMAGES_URL?>image_1.png" class="img-responsive content-image" alt="Responsive image"></img>
+  <div class="content">
+    <div class="row">
+      <div class="col-md-12">
+        <img src="<?php echo IMAGES_URL?>image_1.png" class="img-responsive" alt="Responsive image"></img>
+      </div>
     </div>
   </div>
 
-  <div class="row content-main">
-    <div class="col-md-12">
-      <h4>Menata Ruang Keluarga</h4>
-      <hr class="style-one"> </hr>
-      <p class="blog-text">Masukkan penjelasan singkat disini atau beberapa kata dan kalimat pertama dari blog yang dituju.</p>
+  <div class="content-main">
+    <div class="row">
+      <div class="col-md-12">
+        <h4>Menata Ruang Keluarga</h4>
+        <hr class="style-one"> </hr>
+        <p class="content-text">Masukkan penjelasan singkat disini atau beberapa kata dan kalimat pertama dari blog yang dituju.</p>
+      </div>
     </div>
   </div>
 
   <!-- Sub Content -->
-  <div class="sub-content">
-   <div class="row pad-top-20">
-
-    <div class="col-md-5 col-sm-offset-1 sub-content-main">
-      <h4>Menata Ruang Keluarga</h4>
-      <hr class="style-one"> </hr>
-      <p class="blog-text">Masukkan penjelasan singkat disini atau beberapa kata dan kalimat pertama dari blog yang dituju.</p>
+  <div class="row pad-top-20">
+    <div class="sub-content">
+      <div class="col-md-6">
+        <div class="sub-content-main">
+          <h4>Menata Ruang Keluarga</h4>
+          <hr class="style-one"> </hr>
+          <p class="content-text">Masukkan penjelasan singkat disini atau beberapa kata dan kalimat pertama dari blog yang dituju.</p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="sub-content">
+      <div class="col-md-6">
+        <div class="sub-content-main">
+          <h4>Menata Ruang Keluarga</h4>
+          <hr class="style-one"> </hr>
+          <p class="content-text">Masukkan penjelasan singkat disini atau beberapa kata dan kalimat pertama dari blog yang dituju.</p>
+        </div>
+      </div>
     </div>
 
-    <div class="col-md-5 sub-content-main">
-      <h4>Menata Ruang Keluarga</h4>
-      <hr class="style-one"> </hr>
-      <p class="blog-text">Masukkan penjelasan singkat disini atau beberapa kata dan kalimat pertama dari blog yang dituju.</p>
-    </div>
 
   </div>
-</div>
 </div><!-- END OF MAIN CONTENT -->
 
 
