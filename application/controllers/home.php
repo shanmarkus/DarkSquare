@@ -4,10 +4,20 @@ class Home extends CI_Controller {
 
   public function index()
   {
-    $this->load->view('header');
+    $data['page_title'] = 'Beranda';
+    $this->load->view('header',$data);
     $this->load->view('menu');
     $this->load->view('slider');
     $this->load->view('main_content');
+    $this->load->view('footer');
+  }
+
+  public function portfolio(){
+    $data['page_title'] = 'Portfolio';
+    $this->load->view('header',$data);
+    $this->load->view('menu');
+    $this->load->view('slider');
+    $this->load->view('portfolio');
     $this->load->view('footer');
   }
 }
