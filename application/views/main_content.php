@@ -86,13 +86,17 @@
 
   </div>
 </div>
-
-
-</div>
+</div><!-- END OF MAIN CONTENT -->
 
 
 <!-- ADS CONTENT -->
-<div class="col-md-3">.col-md-1</div>
+<div class="col-md-3">
+  <div class="row">
+    <div class="col-md-12">
+      <img src="<?php echo IMAGES_URL?>box_homepage-icons.png" class="img-responsive" alt="Responsive image"></img>
+    </div>
+  </div>
+</div>
 </div>
 
 
