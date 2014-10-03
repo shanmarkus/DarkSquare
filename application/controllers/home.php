@@ -46,6 +46,14 @@ class Home extends CI_Controller {
     $this->load->view('blog');
     $this->load->view('footer');
   }
+
+    public function blog_detail(){
+    $data['page_title'] = 'Blog Detail';
+    $this->load->view('header',$data);
+    $this->load->view('menu');
+    $this->load->view('blog_detail');
+    $this->load->view('footer');
+  }
 }
 
 
