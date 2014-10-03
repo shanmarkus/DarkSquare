@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="<?php echo CSS_URL?>main_content_style.css">
   <link rel="stylesheet" href="<?php echo CSS_URL?>portfolio_style.css">
   <link rel="stylesheet" href="<?php echo CSS_URL?>portfolio_detail_style.css">
+  <link rel="stylesheet" href="<?php echo CSS_URL?>blog_style.css">
 
   <script src="<?php echo ASSETS_URL?>js/jquery-1.11.1.min.js"></script>
   <script src="<?php echo BOOTSRAP_URL?>js/bootstrap.min.js"></script>

@@ -1,0 +1,24 @@
+.blog-text{
+  font-size: 12px;
+}
+
+.blog-thumb{
+
+}
+
+.blog-content-type1{
+  font-size: 12px;
+  background-color: rgb(65,64,66);
+  color: rgb(248,248,255);
+  padding:18px;
+}
+
+.blog-content-type2{
+  font-size: 12px;
+  background-color: rgb(230,222,220);
+  padding:18px;
+}
+
+.blog-load-more{
+  background-color: rgb(142,185,89);
+}
