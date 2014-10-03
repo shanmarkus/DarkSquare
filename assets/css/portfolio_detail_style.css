@@ -1,16 +1,20 @@
 /*header name*/
 
-.header-name{
+.header-portfolio{
   padding-left: 10px;
   color: rgb(142,185,89);
 }
 
-.contact_detail{
-  background-color: rgb(230,222,220);
-  padding: 10px;
+.header-portfolio-text{
+  padding-left: 10px;
 }
 
-.contact_summary{
+.portfolio-thumb-other{
+  width: 65%;
+  height: 65%;
+}
+
+.portfolio-description{
   margin-top: 10px;
   font-size: 12px;
 }
