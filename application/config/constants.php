@@ -38,6 +38,7 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 define('URL','http://localhost/darksquare/index.php/');
 define('PATH','http://localhost/darksquare/');
 define('ASSETS_URL', PATH."assets/");
+define('IMAGES_URL', PATH."assets/images/");
 define('BOOTSRAP_URL', ASSETS_URL."bootstrap/");
 
 

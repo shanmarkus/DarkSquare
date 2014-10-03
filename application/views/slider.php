@@ -9,15 +9,15 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="..." alt="...">
+      <img src="<?php echo IMAGES_URL?>slideshow_1.png" alt="first slide show">
       <div class="carousel-caption">
-        ...
+        Masukan Judul disini
       </div>
     </div>
     <div class="item">
-      <img src="..." alt="...">
+      <img src="<?php echo IMAGES_URL?>slideshow_2.png" alt="second slide show">
       <div class="carousel-caption">
-        ...
+        Masukan Judul disini
       </div>
     </div>
     ...
