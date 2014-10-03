@@ -17,7 +17,7 @@ class Home extends CI_Controller {
     $this->load->view('header',$data);
     $this->load->view('menu');
     $this->load->view('slider');
-    $this->load->view('portfolio');
+    $this->load->view('galeri');
     $this->load->view('footer');
   }
 
@@ -26,7 +26,7 @@ class Home extends CI_Controller {
     $this->load->view('header',$data);
     $this->load->view('menu');
     $this->load->view('slider');
-    $this->load->view('portfolio_detail');
+    $this->load->view('portfolio');
     $this->load->view('footer');
   }
 
