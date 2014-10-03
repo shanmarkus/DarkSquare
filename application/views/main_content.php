@@ -96,6 +96,17 @@
       <img src="<?php echo IMAGES_URL?>box_homepage-icons.png" class="img-responsive" alt="Responsive image"></img>
     </div>
   </div>
+  <div class="row pad-top-20">
+    <div class="col-md-12">
+      <img src="<?php echo IMAGES_URL?>callcentre_1.png" class="img-responsive" alt="Responsive image"></img>
+      <img src="<?php echo IMAGES_URL?>callcentre_2.png" class="img-responsive" alt="Responsive image"></img>
+    </div>
+  </div>
+  <div class="row pad-top-20">
+    <div class="col-md-12">
+      <img src="<?php echo IMAGES_URL?>akina.png" class="img-responsive" alt="Responsive image"></img>
+    </div>
+  </div>
 </div>
 </div>
 
