@@ -10,8 +10,15 @@
 
 
 /*Margin*/
+
 .marg-top-0{
   margin-top: 0px !important;
+}
+
+/*ALIGN TEXT*/
+
+.text-align-center{
+  text-align: center;
 }
 
 /*Horizontal Line */

@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="<?php echo CSS_URL?>blog_style.css">
   <link rel="stylesheet" href="<?php echo CSS_URL?>blog_detail_style.css">
   <link rel="stylesheet" href="<?php echo CSS_URL?>faq_style.css">
+  <link rel="stylesheet" href="<?php echo CSS_URL?>cara_pembelian_style.css">
 
   <script src="<?php echo ASSETS_URL?>js/jquery-1.11.1.min.js"></script>
   <script src="<?php echo BOOTSRAP_URL?>js/bootstrap.min.js"></script>

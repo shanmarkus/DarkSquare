@@ -78,6 +78,16 @@ class Home extends CI_Controller {
     $this->load->view('faq');
     $this->load->view('footer');
   }
+
+  public function cara_pembelian(){
+    $data['page_title'] = 'Cara Pembelian';
+    $menu['selected_tab'] = '';
+
+    $this->load->view('header',$data);
+    $this->load->view('menu',$menu);
+    $this->load->view('cara_pembelian');
+    $this->load->view('footer');
+  }
 }
 
 
