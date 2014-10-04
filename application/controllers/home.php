@@ -68,6 +68,16 @@ class Home extends CI_Controller {
     $this->load->view('blog_detail');
     $this->load->view('footer');
   }
+
+  public function faq(){
+    $data['page_title'] = 'FAQ';
+    $menu['selected_tab'] = '';
+
+    $this->load->view('header',$data);
+    $this->load->view('menu',$menu);
+    $this->load->view('faq');
+    $this->load->view('footer');
+  }
 }
 
 
