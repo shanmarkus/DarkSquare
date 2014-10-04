@@ -14,9 +14,9 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav pad-top-20">
-        <li class="active"><a href="#">Portfolio</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Produk</a></li>
+        <li <?php if($selected_tab=="portfolio")echo "class='active'"?>><a href="<?php echo PATH?>galeri" class="active">Portfolio</a></li>
+        <li <?php if($selected_tab=="blog")echo "class='active'"?>><a href="<?php echo PATH?>blog">Blog</a></li>
+        <li <?php if($selected_tab=="produk")echo "class='active'"?>><a href="<?php echo PATH?>product">Produk</a></li>
       </ul>
 
       <!--       Right Navigation -->
