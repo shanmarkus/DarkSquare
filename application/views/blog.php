@@ -1,3 +1,4 @@
+<!-- Page Header Div -->
 <div class="row">
   <div class ="col-md-8">
     <div class="page-header">
@@ -6,7 +7,9 @@
     <p class="blog-text">Halaman ini meliput blog-blog yang diisi oleh para desainer. Disini dapat ditulis penjelasan singkat mengenai halaman blog ini.</p>
   </div>
 </div>
+<!-- End Page Header Div -->
 
+<!-- Blog List Div -->
 <div class="row pad-top-20">
   <div class ="col-md-3">
     <div class="blog-thumb">
@@ -39,7 +42,7 @@
     <h2>BLOG 2</h2>
     <p>Tanggal: (masukkan tanggal disini)</p>
     <p>Oleh: (masukkan nama disini)</p>
-    <hr>
+    <hr class="style-two">
     <p>Bagian ini berisikan paragraf-paragraf pertama dari isi blog yang akan dilanjutkan terusannya di halaman selanjutnya, atau penjelasan singkat mengenai mengenai apa blog ini. Bagian ini berisikan paragraf-paragraf pertama dari isi blog yang akan dilanjutkan terusannya di halaman selanjutnya, atau penjelasan singkat mengenai mengenai apa blog ini.</p>
     <p>Bagian ini berisikan paragraf-paragraf pertama dari isi blog yang akan dilanjutkan terusannya di halaman selanjutnya, atau penjelasan singkat mengenai mengenai apa blog ini. Bagian ini berisikan paragraf-paragraf pertama dari isi blog yang akan dilanjutkan terusannya di halaman selanjutnya, atau penjelasan singkat mengenai mengenai apa blog ini.</p>
     <p>Baca lagi...</p>
@@ -56,7 +59,7 @@
 
  <div class ="col-md-9">
   <div class="blog-content-type1">
-    <h2>BLOG 1</h2>
+    <h2>BLOG 3</h2>
     <p>Tanggal: (masukkan tanggal disini)</p>
     <p>Oleh: (masukkan nama disini)</p>
     <hr>
@@ -66,7 +69,9 @@
   </div>
 </div>
 </div>
+<!-- END Blog List Div -->
 
+<!-- Load More Div -->
 <div class="row pad-top-20">
   <div class ="col-md-12">
     <div class="blog-load-more">
@@ -78,4 +83,4 @@
     </div>
   </div>
 </div>
-
+<!-- END Load More Div -->
