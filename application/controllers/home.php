@@ -88,6 +88,16 @@ class Home extends CI_Controller {
     $this->load->view('cara_pembelian');
     $this->load->view('footer');
   }
+
+  public function hubungi_kami(){
+    $data['page_title'] = 'Hubungi Kami';
+    $menu['selected_tab'] = '';
+
+    $this->load->view('header',$data);
+    $this->load->view('menu',$menu);
+    $this->load->view('hubungi_kami');
+    $this->load->view('footer');
+  }
 }
 
 
